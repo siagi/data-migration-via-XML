@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="en_US" date_submitted="2021-02-14" stage="production" date_published="2017-06-26" section_ref="ART" access_status="O" xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns="http://pkp.sfu.ca">
+  <id type="internal" advice="ignore" xmlns="">20170020</id>
+  <title locale="en_US" xmlns="">Geometrical Model of Lemon Fruit</title>
+  <prefix locale="en_US" xmlns="">
+  </prefix>
+  <abstract locale="en_US" xmlns="">A proposal of a mathematical method of modelling of the lemon shape with Bézier's curves was presented. Lisbon, Verna, Genoa lemon cultivars were selected for verification of the modelling method. The lemon contour, which is its meridian, was described with three smoothly combined Bézier's curves. Pictures taken in 10 locations changing every 36o were the basis for description of lemon contours. Bézier's curves, which approximate meridians located on the surface of lemons, are their 3&lt;em&gt;D&lt;/em&gt; models. The presented method may be applied for mathematical modelling of the lemon shape.</abstract>
+  <licenseUrl locale="en_US" xmlns="">http://creativecommons.org/licenses/by-nc-nd/4.0</licenseUrl>
+  <keywords locale="en_US" xmlns="">
+    <keyword>Lemons</keyword>
+    <keyword>shape</keyword>
+    <keyword>Bezier's curves</keyword>
+    <keyword>mathematical models</keyword>
+  </keywords>
+  <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns="">
+    <author include_in_browse="true" user_group_ref="Author">
+      <givenname locale="en_US">Leszek</givenname>
+      <familyname locale="en_US">Mieszkalski</familyname>
+      <affiliation locale="en_US">Institute of Production Organization and Engineering, Warsaw University of Life Sciences</affiliation>
+      <email>mieszko@poczta.fm</email>
+    </author>
+  </authors>
+  <article_galley xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" approved="false" xsi:schemaLocation="http://pkp.sfu.ca native.xsd" xmlns="">
+    <id type="internal" advice="ignore">20</id>
+    <name locale="en_US">HTML</name>
+    <seq>19</seq>
+    <remote src="https://doi.org/10.1515/agriceng-2017-0020" />
+  </article_galley>
+  <issue_identification xmlns="">
+    <volume>21</volume>
+    <number>2(162)</number>
+    <year>2017</year>
+  </issue_identification>
+  <pages xmlns="">101-110</pages>
+</article>
